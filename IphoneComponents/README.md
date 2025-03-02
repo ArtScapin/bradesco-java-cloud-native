@@ -48,9 +48,9 @@ classDiagram
     class iPhone {
     }
 
-    iPhone --> MusicPlayer
+    iPhone --> MusicalPlayer
     iPhone --> Handset
-    iPhone --> Web Browser
+    iPhone --> BrowserInternet
 ```
 
 ### Instructions
